@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">💻 Passionate backend developer from Poland, secretly flirting with frontend to become a fullstack wizard...</h3>
+# Hi 👋, I'm Kuba
+
+### 💻 Passionate backend developer from Poland, secretly flirting with frontend to become a fullstack wizard...
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl2dHgwcWxqNndieHdrbHcybnYxM3VsYzliN2I4aHV1dG93eXBkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="400" />
 </p>
 
 <p align="left">
@@ -11,25 +12,23 @@
 
 ---
 
-### 📚 Education
-- 🎓 **Master’s degree** in Computer Science at **Cracow University of Technology**, Poland (until **June 2026**)
-- 🎓 **Bachelor of Engineering** – BE in Computer Science at **UKEN University**, Cracow, Poland
+## 📚 Education
+
+- 🎓 **Master’s degree** in Computer Science at **Cracow University of Technology**, Poland *(until June 2026)*
+- 🎓 **Bachelor of Engineering – BE** in Computer Science at **UKEN University**, Cracow, Poland
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning **CS50's Introduction to Artificial Intelligence with Python**
+## 🚀 About Me
+
+- 🌱 Currently learning **CS50's Introduction to Artificial Intelligence with Python**
 - 📫 Reach me at: **kielinskij@gmail.com**
 - ⚡ Fun fact: **Coder by day, drummer by night 🥁**
 
 ---
 
-### 🤝 Connect with me:
-<!-- You can add your socials like LinkedIn, Twitter, etc. here later -->
+## 🛠️ Languages and Tools
 
----
-
-### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
@@ -51,5 +50,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubczor&show_icons=true&locale=en&layout=compact" alt="kubczor" /></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kubczor&show_icons=true&locale=en&layout=compact" alt="kubczor" />
+</p>
