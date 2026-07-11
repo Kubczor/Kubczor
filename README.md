@@ -14,7 +14,7 @@
 
 ## 📚 Education
 
-- 🎓 **Master’s degree** in Computer Science at **Cracow University of Technology**, Poland *(until June 2026)*
+- 🎓 **Master’s degree** in Computer Science at **Cracow University of Technology**, Poland 
 - 🎓 **Bachelor of Engineering – BE** in Computer Science at **UKEN University**, Cracow, Poland
 
 ---
